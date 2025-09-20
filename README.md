@@ -1,5 +1,5 @@
 1. Launch an EC2 Instance:
-Go to AWS Console → EC2 → Instances → Launch Instance
+<Go to AWS Console → EC2 → Instances → Launch Instance>
 Choose AMI: Use Amazon Linux 2 or Ubuntu (common choice: Ubuntu Server 22.04 LTS)
 Instance Type: t2.micro (eligible for free tier)
 Key Pair: Create/download a key pair (e.g.Ohio key.pem).
@@ -28,7 +28,7 @@ Search :  http://"your-ec2-public-ip"
 
 Nginx Ubuntu Default Page or the Welcome to Nginx! page will reflect.
 
-Deploy your own website:  Replace the default web root content in /var/www/html with your own heml code and save. 
+Deploy your own website:  Replace the default web root content in /var/www/html with your own html code and save. 
 Search :  http://<your-ec2-public-ip>
 
 you will able to see your own page. 
