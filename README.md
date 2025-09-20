@@ -21,7 +21,6 @@ Nginx:
 sudo systemctl start nginx
 sudo systemctl enable nginx
 
-5. Test It
 Open a browser and go to address bar:
 
 Search :  http://"your-ec2-public-ip"
