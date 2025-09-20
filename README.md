@@ -1,5 +1,5 @@
 1. Launch an EC2 Instance:
-<Go to AWS Console → EC2 → Instances → Launch Instance>
+**Go to AWS Console → EC2 → Instances → Launch Instance**
 Choose AMI: Use Amazon Linux 2 or Ubuntu (common choice: Ubuntu Server 22.04 LTS)
 Instance Type: t2.micro (eligible for free tier)
 Key Pair: Create/download a key pair (e.g.Ohio key.pem).
