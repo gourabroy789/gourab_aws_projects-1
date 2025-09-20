@@ -12,7 +12,7 @@ Allow HTTP (port 80) from anywhere
 Conect EC2 Instance from aws portal 
 
 4. Install a Web Server (e.g. Nginx)
-For Nginx:
+
 sudo apt update
 sudo apt install nginx -y
 
