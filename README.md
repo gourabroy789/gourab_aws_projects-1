@@ -24,7 +24,7 @@ sudo systemctl enable nginx
 5. Test It
 Open a browser and go to address bar:
 
-Search :  http://<your-ec2-public-ip>
+Search :  http://"your-ec2-public-ip"
 
 Nginx Ubuntu Default Page or the Welcome to Nginx! page will reflect.
 
